@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Tejas T A
+- 👋 Hello, I’m Tejas
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Natural Language Processing
 - 🌱 I’m currently working on Machine Learning and Deep learning Projects at production scale
 - 💞️ I’m looking to collaborate on Data Science projects
