@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Natural Language Processing
 - 🌱 I’m currently working on Machine Learning and Deep Learning Projects at a production scale
 - 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me - tejasta@gmail.com or https://www.linkedin.com/in/tejasta/
+- 📫 How to reach me - tejasta@gmail.com , tejast2@illinois.edu or https://www.linkedin.com/in/tejasta/
 
 <!---
 Tejas-TA/Tejas-TA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
