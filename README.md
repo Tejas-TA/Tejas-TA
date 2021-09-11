@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Tejas, a graduate student at the University of Illinois at Urbana-Champaign
+- 👋 Hello, I’m Tejas, a graduate student at the University of Illinois Urbana-Champaign
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Natural Language Processing
 - 🌱 I’m currently working on Machine Learning and Deep Learning Projects at a production scale
 - 💞️ I’m looking to collaborate on Data Science projects
